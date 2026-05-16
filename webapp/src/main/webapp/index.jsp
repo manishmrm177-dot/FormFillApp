@@ -20,11 +20,7 @@
     <label for="brothername"><b>BrotherName</b></label>
     <input type="text" placeholder="Enter Brother Name" name="Brothername" id="Brothername" required>
     <br>
-
-    <label for="sistername"><b>SisterName</b></label>
-    <input type="text" placeholder="Enter Sister Name" name="Sistername" id="sistername" required>
-    <br>
-
+    
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
